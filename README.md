@@ -1,6 +1,6 @@
 # Flight Delay Prediction
 
-This project analyzes U.S. domestic flight data to predict both the likelihood and magnitude of flight delays using historical operational data.
+This project analyzes U.S. domestic flight data to predict both the likelihood and magnitude of flight delays using historical operational data. Developed as part of a University of Chicago Applied Data Science Machine Learning I course.
 
 ## Overview
 
