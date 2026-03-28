@@ -2,6 +2,8 @@
 
 This project analyzes U.S. domestic flight data to predict both the likelihood and magnitude of flight delays using historical operational data. Developed as part of a University of Chicago Applied Data Science Machine Learning I course.
 
+### By: Anisa Dye, Emanda Bisrat, Devyani Rastogi, Danilo Ruberti
+
 ## Overview
 
 Flight delays remain a major operational challenge in the airline industry:
